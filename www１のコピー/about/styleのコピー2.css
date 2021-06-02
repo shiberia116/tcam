@@ -1,0 +1,104 @@
+h1 {text-align:center;
+        color:#000;
+         font-size:45px;
+          margin:0px 30px 10px 30px;
+       font-family: 'Rubik', sans-serif;
+      font-style: normal;
+     font-weight: bold;
+
+      
+  }
+
+
+#catchcopy {text-align:center;
+                    font-size:15px;
+                    margin:0px 30px 0px 30px;
+                     font-family: 'Rubik', sans-serif;
+      font-style: normal;
+     font-weight: bold;
+
+}
+
+h3 {
+       text-align:center;
+color: #000;
+        font-size:25px;
+        
+        font-family: 'Noto Serif JP', serif;
+      font-style: normal;
+     font-weight: bold;
+
+        }      
+        
+  img{
+  margin:0 auto;
+  display:block;
+}
+      
+
+a { color:#000000; text-decoration:none; 
+    text-align:center;
+        font-size:25px;
+        font-family: 'Rubik', sans-serif;
+      font-style: normal;
+     font-weight: bold;
+
+}
+
+font-family: 'Noto Sans JP', sans-serif;
+
+body { color: #333333;  }
+
+.name{
+     text-align:center;
+color: #000;
+        font-size:25px;
+        font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+     font-weight: bold;
+
+
+}
+
+div li{display: inline-block;
+}
+
+ul {
+      text-align:center;
+color: #000;
+        font-size:25px;
+        font-family: 'Rubik', sans-serif;
+      font-style: normal;
+     font-weight: bold;
+
+}
+
+
+p { text-align:center;
+color: #000;
+        font-size:25px;
+        font-family: 'Noto Serif JP', serif;
+      font-style: normal;
+     font-weight: bold;
+
+     }
+     
+#pagebody 
+{
+  text-align:center;
+        font-size:15px;
+        font-family: 'Rubik', sans-serif;
+      font-style: normal;
+     font-weight: bold;
+  }
+#copyright {text-align:center;
+color: #000;
+        font-size:25px;
+        font-family: 'Rubik', sans-serif;
+      font-style: normal;
+     font-weight: bold;
+
+      
+  }
+
+
